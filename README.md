@@ -2,7 +2,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CK-D3VIL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BL4CK-D3VIL&layout=compact&theme=tokyonight&hide_border=false)
 
-
 ## Tryhackme and Hackthebox
 <a href="https://tryhackme.com/p/BL4CKD3VIL">
 <img src="https://tryhackme-badges.s3.amazonaws.com/BL4CKD3VIL.png" alt="Your Image Badge" width="223"/></a>
