@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2000&pause=1250&color=cyan&center=true&vCenter=true&width=550&lines=Hello+World!;I'm+Abhi.;Cybersecurity+Enthusiast.;CTF+Player+%7C+Pentester.)
 
-<img src="https://github-readme-stats.vercel.app/api?username=BL4CK-D3VIL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BL4CK-D3VIL&layout=compact&theme=tokyonight&hide_border=false)
-
+<img src="https://github-readme-stats.vercel.app/api?username=BL4CK-D3VIL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BL4CK-D3VIL&layout=compact&theme=tokyonight)
 ## Tryhackme and Hackthebox
 <a href="https://tryhackme.com/p/BL4CKD3VIL">
 <img src="https://tryhackme-badges.s3.amazonaws.com/BL4CKD3VIL.png" alt="Your Image Badge" width="223"/></a>
@@ -12,9 +11,8 @@
 ## 📫 Connect with Me  
 <p>
   <a href="https://discordapp.com/users/BL4CKD3VIL#6424"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord"></a>
-  <a href="mailto:null6466@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/a_b_h_i_404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/user"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/user#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
