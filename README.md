@@ -6,10 +6,10 @@
 
 ## Tryhackme and Hackthebox
 <a href="https://tryhackme.com/p/BL4CKD3VIL">
-<img src="https://tryhackme-badges.s3.amazonaws.com/BL4CKD3VIL.png?v=2" alt="Your Image Badge" width="204"/></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/BL4CKD3VIL.png?v=2" alt="Your Image Badge" width="198"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://app.hackthebox.com/profile/606919" target="_blank"/>
-<img src="https://www.hackthebox.eu/badge/image/606919" alt="Hack The Box Profile" width="207"/></a>
+<img src="https://www.hackthebox.eu/badge/image/606919" alt="Hack The Box Profile" width="210"/></a>
 
 ## 📫 Connect with Me  
 <p>
